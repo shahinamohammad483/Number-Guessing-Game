@@ -31,3 +31,6 @@ This is a simple Python-based guessing game built using Jupyter Notebook. After 
 - Loops and conditionals
 
 ---
+### 📸 Sample Output
+
+![Sample Output](sample%20output.png)
